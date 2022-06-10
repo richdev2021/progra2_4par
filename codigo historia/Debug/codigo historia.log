@@ -1,0 +1,3 @@
+﻿  codigo historia.cpp
+C:\Users\rich d\Desktop\progra2_4par\progra2_4par\codigo historia\codigo historia.cpp(12,8): warning C4101: 'estado': variable local sin referencia
+  codigo historia.vcxproj -> C:\Users\rich d\Desktop\progra2_4par\progra2_4par\codigo historia\Debug\codigo historia.exe
